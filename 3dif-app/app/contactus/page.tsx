@@ -302,12 +302,11 @@ const ContactUs = () => {
           </div>
           <div className='my-3'>
             <div className='text-[#002060] font-bold'>
-              Principal Main Office
+              HUBZone Office
             </div>
             <div className='mt-1'>
-              Harbour Centre<br/>
-              2 Eaton Street, Suite 704<br/>
-              Hampton, VA 23669-4055
+              128 Orange Ave, Ste 237<br/>
+              Daytona Beach, FL 32114
             </div>
           </div>
           <div className='my-3'>

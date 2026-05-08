@@ -103,9 +103,8 @@ const PrivacyPolicy = () => {
 
                 <strong>3DiF <br/>
                 Attn: Corporate Communications / Privacy<br/>
-                Harbour Centre<br/>
-                2 Eaton Street, Suite 704<br/>
-                Hampton, VA 23669-4055</strong>
+                128 Orange Ave, Ste 237<br/>
+                Daytona Beach, FL 32114</strong>
             </div>
         </div>
     </main>

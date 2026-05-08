@@ -18,9 +18,9 @@ const Footer = () => {
                     <p>Phone: 571.246.5489</p>
                     <p>Email: info@3dif.co</p>
                     <br />
-                    <p>Principal Address</p>
-                    <p>2 Eaton Street, Suite 704</p>
-                    <p>Hampton, VA 23669-4055</p>
+                    <p>HUBZone Office</p>
+                    <p>128 Orange Ave, Ste 237</p>
+                    <p>Daytona Beach, FL 32114</p>
                     <br />
                     <p>Unique Entity ID: RHDCBKZ3LN35</p>
                     <p>Cage Code: 6E8B8</p>
